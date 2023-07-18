@@ -1,5 +1,5 @@
 # Clon_de_Google
-Pagina web clon de Google realizada con HTML  y CSS  para realizar algo similar al de Google hecho en el bootcamp de Tecnolochicas
+Pagina web clon de Google realizada con HTML  y CSS  para realizar algo similar al de Google hecho en el bootcamp de Tecnolochicas PRO
 
 ## Construcción:
 Interfaz de google dando a conocer la experiencia del usuario ante su interfaz donde se replica algunas cosas similares a la pagina web con un toque de estilo propio.
